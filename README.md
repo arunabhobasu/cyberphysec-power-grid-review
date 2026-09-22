@@ -1,5 +1,4 @@
-# Review of Cyber-Physical Security in Modern Power Grids:\
-From False Data Injection Attacks to Active Defense Mechanisms
+# Review of Cyber-Physical Security in Modern Power Grids: From False Data Injection Attacks to Active Defense Mechanisms
 
 ## Abstract : 
 The evolution of the legacy power grid into a smart Cyber-Physical System (CPS) has opened up new possibilities in remote control and distribution but at the same time it has also introduced an entirely new frontier of remote attacks. The pivotal attack on Ukraininan power grid to cause widespread blackout was a wake up call about the realization of these new type of attacks. \
